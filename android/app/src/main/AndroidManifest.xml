@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fltr_riverpod">
+    package="com.example.init">
    <application
         android:label="fltr_riverpod"
         android:name="${applicationName}"
